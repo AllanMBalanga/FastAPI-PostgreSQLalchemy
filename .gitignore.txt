@@ -1,0 +1,11 @@
+# Ignore node modules
+node_modules/
+
+# Ignore environment files
+.env
+
+# Ignore IDE settings (like PyCharm or IntelliJ)
+.idea/
+
+# Ignore Python cache files
+__pycache__/
